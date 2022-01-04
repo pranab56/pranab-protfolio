@@ -1,0 +1,52 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.pronab{
+    display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+h1{
+    font-size: 50px;
+}
+.color{
+    color: coral;
+}
+.sitol{
+    width: 50%;
+    padding-left: 4%;
+}
+.emon img{
+    width: 80%;
+    padding-left: 10%;
+    
+}
+.button{
+    text-decoration: none;
+    padding: 10px 30px;
+   background-image: linear-gradient(orange, tomato);
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.kumar{
+    display: flex;
+    margin-top: 180px;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+.button1{
+    text-decoration: none;
+    padding: 10px 60px;
+   background-image: linear-gradient(orange, tomato);
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+#roton{
+    padding-right: 115px;
+}
