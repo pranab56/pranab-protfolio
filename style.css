@@ -11,6 +11,9 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
 .color{
     color: coral;
 }
@@ -49,4 +52,41 @@ h1{
 }
 #roton{
     padding-right: 115px;
+}
+.sovon{
+    display: flex;
+}
+#font-color{
+    color: coral;
+}
+.class{
+    background-image: url(images/exp-bg.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    margin-top: 180px;
+}
+.sitol1{
+    width: 80%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+}
+#border{
+    border-left: 7px solid;
+   border-image:linear-gradient(orange,tomato);
+   border-image-slice: 1;
+}
+#border2{
+    border-left: 7px solid;
+   border-image:linear-gradient(blue,cyan);
+   border-image-slice: 1;
+}
+.sajid{
+    margin-top: 180px;
+}
+#foot{
+    text-align: center;
 }
